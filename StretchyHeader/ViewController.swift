@@ -78,7 +78,6 @@ extension ViewController: UITableViewDataSource {
 extension ViewController: UIScrollViewDelegate {
     
     func scrollViewDidScroll(_ scrollView: UIScrollView) {
-        print(tableView.contentOffset.y)
         updateHeaderView()
     }
     

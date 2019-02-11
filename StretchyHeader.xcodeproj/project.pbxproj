@@ -13,6 +13,7 @@
 		698837E422113504007BE0CF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 698837E322113504007BE0CF /* Assets.xcassets */; };
 		698837E722113504007BE0CF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 698837E522113504007BE0CF /* LaunchScreen.storyboard */; };
 		698837EF22113516007BE0CF /* space.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 698837EE22113516007BE0CF /* space.jpg */; };
+		698837F1221147E5007BE0CF /* AnotherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698837F0221147E5007BE0CF /* AnotherViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		698837E622113504007BE0CF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		698837E822113504007BE0CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		698837EE22113516007BE0CF /* space.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = space.jpg; sourceTree = "<group>"; };
+		698837F0221147E5007BE0CF /* AnotherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnotherViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				698837DC22113504007BE0CF /* AppDelegate.swift */,
 				698837DE22113504007BE0CF /* ViewController.swift */,
+				698837F0221147E5007BE0CF /* AnotherViewController.swift */,
 				698837E022113504007BE0CF /* Main.storyboard */,
 				698837E322113504007BE0CF /* Assets.xcassets */,
 				698837E522113504007BE0CF /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			files = (
 				698837DF22113504007BE0CF /* ViewController.swift in Sources */,
 				698837DD22113504007BE0CF /* AppDelegate.swift in Sources */,
+				698837F1221147E5007BE0CF /* AnotherViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
