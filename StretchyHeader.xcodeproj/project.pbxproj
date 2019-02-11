@@ -12,6 +12,7 @@
 		698837E222113504007BE0CF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 698837E022113504007BE0CF /* Main.storyboard */; };
 		698837E422113504007BE0CF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 698837E322113504007BE0CF /* Assets.xcassets */; };
 		698837E722113504007BE0CF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 698837E522113504007BE0CF /* LaunchScreen.storyboard */; };
+		698837EF22113516007BE0CF /* space.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 698837EE22113516007BE0CF /* space.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		698837E322113504007BE0CF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		698837E622113504007BE0CF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		698837E822113504007BE0CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		698837EE22113516007BE0CF /* space.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = space.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				698837E322113504007BE0CF /* Assets.xcassets */,
 				698837E522113504007BE0CF /* LaunchScreen.storyboard */,
 				698837E822113504007BE0CF /* Info.plist */,
+				698837EE22113516007BE0CF /* space.jpg */,
 			);
 			path = StretchyHeader;
 			sourceTree = "<group>";
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				698837EF22113516007BE0CF /* space.jpg in Resources */,
 				698837E722113504007BE0CF /* LaunchScreen.storyboard in Resources */,
 				698837E422113504007BE0CF /* Assets.xcassets in Resources */,
 				698837E222113504007BE0CF /* Main.storyboard in Resources */,
@@ -284,6 +288,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = StretchyHeader/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -301,6 +306,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = StretchyHeader/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
