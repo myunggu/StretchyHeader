@@ -24,7 +24,7 @@ class ViewController: UIViewController {
     @IBOutlet var tableView: UITableView!
     var tableItems = (1...100).map { "\($0)" }
     var headerView: UIView!
-    var tableHeaderHeight: CGFloat!
+    var tableHeaderHeight: CGFloat! = 200
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -78,6 +78,7 @@ extension ViewController: UITableViewDataSource {
 extension ViewController: UIScrollViewDelegate {
     
     func scrollViewDidScroll(_ scrollView: UIScrollView) {
+        print(scrollView.contentOffset.y)
         updateHeaderView()
     }
     
