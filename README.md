@@ -1,4 +1,4 @@
 # StretchyHeader
 Stretchable Header Demo
 
-![alt demo](https://github.com/myunggu/GuidePreview/blob/master/StretchyHeader/demo.gif)
+![alt demo](https://github.com/myunggu/StretchyHeader/blob/master/StretchyHeader/demo.gif)
