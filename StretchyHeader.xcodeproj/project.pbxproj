@@ -14,7 +14,7 @@
 		698837E722113504007BE0CF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 698837E522113504007BE0CF /* LaunchScreen.storyboard */; };
 		698837EF22113516007BE0CF /* space.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 698837EE22113516007BE0CF /* space.jpg */; };
 		698837F1221147E5007BE0CF /* AnotherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698837F0221147E5007BE0CF /* AnotherViewController.swift */; };
-		699F48972216930F0005D41F /* preview.gif in Resources */ = {isa = PBXBuildFile; fileRef = 699F48962216930F0005D41F /* preview.gif */; };
+		699F48972216930F0005D41F /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 699F48962216930F0005D41F /* demo.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +27,7 @@
 		698837E822113504007BE0CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		698837EE22113516007BE0CF /* space.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = space.jpg; sourceTree = "<group>"; };
 		698837F0221147E5007BE0CF /* AnotherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnotherViewController.swift; sourceTree = "<group>"; };
-		699F48962216930F0005D41F /* preview.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = preview.gif; sourceTree = "<group>"; };
+		699F48962216930F0005D41F /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,7 +68,7 @@
 				698837E522113504007BE0CF /* LaunchScreen.storyboard */,
 				698837E822113504007BE0CF /* Info.plist */,
 				698837EE22113516007BE0CF /* space.jpg */,
-				699F48962216930F0005D41F /* preview.gif */,
+				699F48962216930F0005D41F /* demo.gif */,
 			);
 			path = StretchyHeader;
 			sourceTree = "<group>";
@@ -132,7 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				698837EF22113516007BE0CF /* space.jpg in Resources */,
-				699F48972216930F0005D41F /* preview.gif in Resources */,
+				699F48972216930F0005D41F /* demo.gif in Resources */,
 				698837E722113504007BE0CF /* LaunchScreen.storyboard in Resources */,
 				698837E422113504007BE0CF /* Assets.xcassets in Resources */,
 				698837E222113504007BE0CF /* Main.storyboard in Resources */,
